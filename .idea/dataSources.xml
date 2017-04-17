@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="dbRPDA@172.25.10.99" uuid="25722b6a-1876-4eed-b398-97a0d0bd6c2e">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://172.25.10.99:5432/dbRPDA</jdbc-url>
+    </data-source>
+  </component>
+</project>

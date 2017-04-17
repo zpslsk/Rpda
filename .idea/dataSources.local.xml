@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="dbRPDA@172.25.10.99" uuid="25722b6a-1876-4eed-b398-97a0d0bd6c2e">
+      <database-info product="PostgreSQL" version="9.4.5" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4.1212.jre6">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>usera</user-name>
+      <resolve-scope>dbRPDA:public,usera</resolve-scope>
+    </data-source>
+  </component>
+</project>
